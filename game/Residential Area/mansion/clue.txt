@@ -1,5 +1,0 @@
-Investigation Update:
-
-A hastily written note mentions checking the garden next.
-
-Remember: Use 'cd "garden"' to follow this lead.

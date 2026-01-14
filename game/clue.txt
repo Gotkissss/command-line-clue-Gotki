@@ -1,6 +1,6 @@
 Detective's Initial Report:
 
-The Baker left an anonymous tip about unusual activity at the cottage.
+According to The Shopkeeper, there were unusual sounds coming from the cellar last night.
 
 This seems like a good place to start our investigation. Remember to:
 - Use 'cd' to move between locations
