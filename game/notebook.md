@@ -1,14 +1,14 @@
 # Detective's Notebook
 
 ## Suspects
-- [ ] The Carpenter
+- [x] The Carpenter
 - [ ] The Florist
-- [ ] The Postman
+- [x] The Postman
 
 ## Weapons
-- [ ] Walking Stick
+- [x] Walking Stick
 - [ ] Leather Gloves
-- [ ] Steel Ruler
+- [x] Steel Ruler
 
 ## Notes
 *Use this space to record your findings and deductions...*
@@ -16,7 +16,7 @@ Residential Area:
 Cottage 
 	Objects.txt empty
 	Persons.txt empty
-	
+	s
 	'living room'
 		Objects.txt and Persons.txt both are empty
 	
@@ -124,7 +124,15 @@ School:
 		Kitchen: Empty 
 
 
+Town Hall: 
+	Objects: Heavy Book
+	Persons: Empty
 
-
-
-
+	offices:
+		meeting rooms:
+			Objects and persons: Empty
+			Council Chamber: The Innkeeper
+		records: 
+			Objects and persons: Brass Bell, The Teacher
+			archives: Antique Compass
+			
