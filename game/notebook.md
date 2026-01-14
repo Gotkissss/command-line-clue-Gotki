@@ -24,4 +24,67 @@ Cottage
 		Persons.txt: Empty
 		Clues.txt: Check the study in the Residential Area	
 
-Location of the crime is still unknown - the room must have been empty when it happened...
+Mansion
+	Objects.txt empty
+	Persons.txt empty
+
+	Library
+		Objects.txt: Empty
+		Persons.txt: Empty
+		Study:
+			Objects.txt: Empty
+			Persons.txt: The Postman (Possible Murderer)
+			Clue.txt: Check the playground in the park
+
+
+	Garden
+		Objects.txt: Empty
+		Persons.txt: Empty
+		Greenhouse:
+			Objects and Persons: Empty
+
+
+
+Park 
+	Objects and Persons: Empty
+	
+
+	Playground
+		Objects: Walking Stick (Possible Murder Weapon)
+		Persons: Empty
+		Clue: Go back and check the cafe in the shops
+		
+		Sandbox: 
+			Objects.txt: Old Key
+			Persons: Empty
+
+	
+	Pond
+		Objects: Empty
+		Persons: Empty
+
+		Dock: 
+			Objects: Empty
+			Persons: Empty
+
+
+	Gazebo	
+		Objects: Silver Watch
+		Persons: Empty
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
