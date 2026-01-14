@@ -12,6 +12,7 @@
 
 ## Notes
 *Use this space to record your findings and deductions...*
+Residential Area:
 Cottage 
 	Objects.txt empty
 	Persons.txt empty
@@ -107,6 +108,20 @@ shops
 
 
 
+School: 
+	Objects: Letter Opener (Postman?)
+	Persons: The artist
+
+	Classrooms:
+		Objects and persons: Empty
+		Art room: The Musician
+		Science Lab: This is the scene of the crime
+
+
+	Gymnasium: Empty
+	Cafeteria: 
+		Persons: The Chef
+		Kitchen: Empty 
 
 
 
