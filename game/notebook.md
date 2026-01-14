@@ -76,9 +76,34 @@ Park
 
 
 
+shops
+
+	Objects: Empty
+	Persons: Empty
+
+	Bakery:
+		Objects: Bronze Trophy	
+		Persons: Empty	
+		
+		Kitchen: 
+			Persons: Doctor and Gardener
+			Objects: empty
+
+		Storage:
+			Persons and Objects: Empty		
 
 
+	Cafe:
+		Objects: empty
+		Persons: The Carpenter (Possible Murderer)
+		Clue: Check the science lab in the school
 
+	Market: 		
+		Objects and persons: Empty
+		Stockroom:
+			Objects and persons: Empty
+		Aisles:
+			Objects and persons: Empty
 
 
 
